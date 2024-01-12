@@ -608,7 +608,9 @@ section h2 {
   margin-top: -8px;
   margin-bottom: 32px;
 }
-
+.copyright P {
+  font-size: 1.25rem;
+  }
 /* Footer */
 
 footer {
