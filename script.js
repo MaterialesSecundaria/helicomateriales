@@ -155,7 +155,7 @@
       title: "Álgebra ",
       description:
         "PPT 2024.",
-      link: "https://drive.google.com/drive/folders/1xfU9Dg9ZJEvMN26tYDIxSOCjnVyBaVMe?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1-vkCanTdQPI4PEMukDvbpoJhJHShsFaR?usp=drive_link",
     },
   
     {
@@ -163,7 +163,7 @@
       title: "Aritmética",
       description:
         "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1DHIESsAWonublEogupU0TiJMfIiBrHuw?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1GceIFXEvXxZhNBNHRmO56JPCo5yAHPts?usp=drive_link",
     },
   
     {
@@ -171,7 +171,7 @@
       title: "Geometría",
       description:
         "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1B_ouMrlpnXw2IGL2AsCVrFlUQ7ohSZwT?usp=sharing",
+      link:"https://drive.google.com/drive/folders/17yQ8KzCOsnQa_DwEIfhrAxztuTzk512l?usp=drive_link",
     },
   
     {
@@ -179,7 +179,7 @@
       title: "Trigonometría",
       description:
         "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1v7vHNVyrgsitQ9XyjDllnoJzd5oKtNva?usp=sharing",  
+      link:"https://drive.google.com/drive/folders/11q88pVBz8dMz4-7AIf3YTLldbGQQRM-o?usp=drive_link",  
     },
   
     {
@@ -187,7 +187,7 @@
       title: "Raz. Matemático",
       description:
         "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1UMj4mWR7SBvp2k2ALEZFDeW4yQvba0_V?usp=sharing",   
+      link:"https://drive.google.com/drive/folders/1Id5AKIeR6kL1641ReGTCS2VEmQe_aHFG?usp=drive_link",   
     },
   
     {
@@ -195,105 +195,105 @@
       title: "Física",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1eZCgnB4pvFpOdcFZjvgamekTlNXYKXm3?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1C-SkOHWXo-oGqttE9goI_EPE4knce5Up?usp=drive_link",
     },
      {
       icon: "assets/icono_quim.png",
       title: "Química",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1uZd9v3JsJF_8xIGlV-E6jceAi4brmthz?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1nW97Gb8r61Ej6oxDxNXRmByRWj1kPBty?usp=drive_link",
     },
     {
       icon: "assets/biology.png",
       title: "Biología",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/1uZd9v3JsJF_8xIGlV-E6jceAi4brmthz?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1vd3hX2iMM5ehyu2E4cwer5dvZWRG8Vgu?usp=drive_link",
     },
      {
       icon: "assets/icono_leng.png",
       title: "Lenguaje",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/14Ej7k8GPvptXB6_-2fz7G9EzBkBsp3Jt?usp=sharing",
+      link:"https://drive.google.com/drive/folders/11IhR2UwBdd8MbAklQzgCmzrsb11uz708?usp=drive_link",
     },
     {
       icon: "https://res.cloudinary.com/dr8dnxnca/image/upload/v1689395117/blogger_1/create-task-icon_bjbqxc.svg",
       title: "Literatura",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/14Ej7k8GPvptXB6_-2fz7G9EzBkBsp3Jt?usp=sharing",
+      link:"https://drive.google.com/drive/folders/12c1pD7eWsQpNG450yM4KfepvxtcVLxHU?usp=drive_link",
     },
       {
       icon: "assets/icono_rv.png",
       title: "Raz Verbal",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1X-E1_bZyKeplns-crswDsPxcxtoJ9UU5?usp=drive_link",
     },
     {
       icon: "assets/ingles.png",
       title: "Inglés",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1f_Xb5VFYxtN36VxCc1Jgc1pEUmDE1Enw?usp=drive_link",
     },
     {
       icon: "assets/tutoria.png",
       title: "Tutoria",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1AZTLbw3yZGkM9mYWGla9a3I905ZJOFis?usp=drive_link",
     },
     {
       icon: "assets/icons8-theatre-mask-64.png",
       title: "Teatro",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1x7G6y-GGkSP89JoPgCv3TylCkxvdJJBf?usp=drive_link",
     },
     {
       icon: "assets/peruvian.png",
       title: "H. Perú",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1FBGJtcSaNeevaJkNEeeP38wuGWmZoQre?usp=drive_link",
     },
     {
       icon: "assets/geografy.png",
       title: "Geografía",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1V0bg0sGPvZ7uHAiqKYYqj26BT9TpEwbm?usp=drive_link",
     },
     {
       icon: "assets/icono_geom.png",
       title: "H. Universal",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1HiL4U-FPN2oKXf7HtdvIoMJz3YriJjdA?usp=drive_link",
     },
     {
       icon: "assets/icono-economy-80.png",
       title: "Economía",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1gwmG5-ELfdDuTmUaNkGEKxCrzfQfmfMc?usp=drive_link",
     },
     {
       icon: "assets/psicology.png",
       title: "Psicología",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/123Qn5Ug22T3SXEKeGTh_lIT0n7ynXpzF?usp=drive_link",
     },
     {
       icon: "assets/valores.png",
       title: "Valores",
       description:
       "PPT 2024.",
-      link:"https://drive.google.com/drive/folders/15AwrliQQ8YwTDZNFPG_NfMh_nbSltVa9?usp=sharing",
+      link:"https://drive.google.com/drive/folders/1RM9KdtJs9YKkuWTSCxD1nWE7YSk_thxX?usp=drive_link",
     },
     
   ];  
