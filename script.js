@@ -305,27 +305,27 @@
         {
           title: "Álgebra",
           value: "Descarga Compendio",
-          link:  "/.",
+          link:  "https://drive.google.com/drive/folders/1TK3iF99Ve_p6XwGcVF_lJvOIIYjfr39P?usp=sharing",
         },
         {
           title: "Aritmética",
           value: "Descarga Compendio",
-          link:  "/.",
+          link:  "https://drive.google.com/drive/folders/1sh5hAbcrWi2u2g_RRzgsUUzx9M8hjRoG?usp=sharing",
         },
         {
           title: "Geometría",
           value: "Descarga Compendio",
-          link:  "/.",
+          link:  "https://drive.google.com/drive/folders/1guddlNl1RvEsyP63GZyiVhqN7EJRV4IT?usp=sharing",
         },
         {
           title: "Trigonometría",
           value: "Descarga Compendio",
-          link:  "/.",
+          link:  "https://drive.google.com/drive/folders/1ijEmBRnlxihOjVxEfSOdDSOLRBo-3ZCO?usp=sharing",
         },
         {
           title: "Raz. Matemático",
           value: "Descarga Compendio",
-          link:  "/.",
+          link:  "https://drive.google.com/drive/folders/1fMDnaVzpnH53RN2zmprLo5OO5CV994g4?usp=sharing",
         },
         
         
@@ -338,17 +338,17 @@
         {
           title: "Física",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1Y8Rj-2toUXONXahfyliBYDQ-vd8JU2Do?usp=sharing",
         },
         {
           title: "Química",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1dOgH9NTQXQ27WlqvWmpRd6vY65vVX3sZ?usp=sharing",
         },
         {
           title: "Bíología",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1OMyR9KjTSHWP4kdCak3Wm3qc27sfnIca?usp=sharing",
         },
         
       ],
@@ -359,22 +359,22 @@
         {
           title: "Lenguaje",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1Srf7WH-Fk4KvPVjxjkAAksvwet6hMnK2?usp=sharing",
         },
         {
           title: "Literatura",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1jmzenMiN_6f9DSdx0juEGR36NNfNd9gA?usp=sharing",
         },
         {
           title: "Raz. Verbal",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1yPorD_5K3XF4LbrPbu6QjK0l6AnjqIqx?usp=sharing",
         },
         {
           title: "Teatro",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1WbOeneyZJOLQyA6_-cMFhdPu7Oje7jsd?usp=sharing",
         },
         
       ],
@@ -385,32 +385,32 @@
         {
           title: "H. Perú",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1wbC0vLTUODhWY-3-yEL2KuhIu_B9Oh0X?usp=sharing",
         },
         {
           title: "Geografía",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1tg7y_Ifn_rpXHAD2u5CcAHGXOHPjtiRr?usp=sharing",
         },
         {
           title: "H. Universal",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1ZPYzLHq9wY8e7F3EpXGsH-RaLDf0zGMW?usp=sharing",
         },
         {
           title: "Economía",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  ".https://drive.google.com/drive/folders/1Z8Ghoz_d0t9W6-Ivb_sQz4tPdqU54Pv3?usp=sharing",
         },
         {
           title: "Psicología",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1Q9jWl6LESHgWinPSFObSr_2BUlTh_i-7?usp=sharing",
         },
         {
           title: "Valores",
           value: "Descarga Compendio",
-          link:  "./",
+          link:  "https://drive.google.com/drive/folders/1LARe1WDWg1G2f-ohvrlpt8zEKOf1MGQd?usp=sharing",
         },
         
         
