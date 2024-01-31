@@ -400,7 +400,7 @@
         {
           title: "Economía",
           value: "Descarga Compendio",
-          link:  ".https://drive.google.com/drive/folders/1Z8Ghoz_d0t9W6-Ivb_sQz4tPdqU54Pv3?usp=sharing",
+          link:  "https://drive.google.com/drive/folders/1Z8Ghoz_d0t9W6-Ivb_sQz4tPdqU54Pv3?usp=sharing",
         },
         {
           title: "Psicología",
